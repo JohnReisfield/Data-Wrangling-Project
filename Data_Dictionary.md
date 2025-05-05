@@ -16,6 +16,6 @@
 | **Average Age**       | Average age of players on the team roster.                                      | Float         |
 | **Cap Space**         | Remaining salary cap space available to the team (in dollars).                 | Float         |
 | **Total Cap**         | Total salary cap allocated by the team (in dollars).                           | Float         |
-| **Long0term IR**      | Amount of salary cap relief due to players on long-term injured reserve (LTIR). | Float         |
+| **Long-term IR**      | Amount of salary cap relief due to players on long-term injured reserve (LTIR). | Float         |
 | **Active**            | Active salary cap spending by the team (in dollars).                           | Float         |
 | **Injured**           | Total salary cap allocated to injured players (in dollars).                    | Float         |
