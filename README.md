@@ -1,5 +1,7 @@
 # Data-Wrangling-Project
 
+## Folder Structure
+```
 data-wrangling-project/
 │
 ├── data/                # Folder for datasets
@@ -8,8 +10,19 @@ data-wrangling-project/
 │   └── README.md        # Description of the data folder
 │
 ├── notebooks/           # Jupyter Notebooks
-│   ├── analysis.ipynb   # Example notebook for analysis
+│   ├── Project Code.ipynb   # Current Jupyter Notebook
 │   └── README.md        # Description of the notebooks folder
 │
 ├── README.md            # Main project README
 └── data_dictionary.md   # Data dictionary
+```
+
+
+## Table of Contents
+1. [Data]
+2. [Notebooks]
+3. [Data Dictionary]
+
+## Datasets
+- [Salary Cap Data](https://www.spotrac.com/nhl/cap)
+- [NHL Stats Data](https://www.nhl.com/stats/teams?aggregate=0&reportType=season&seasonFrom=20112012&seasonTo=20232024&gameType=2&sort=a_seasonId&page=0&pageSize=50)
