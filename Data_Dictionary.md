@@ -2,8 +2,8 @@
 
 | **Column Name**       | **Description**                                                                 | **Data Type** |
 |------------------------|---------------------------------------------------------------------------------|---------------|
-| **Team**              | Name of the team (e.g., "New York Rangers").                                     | String        |
-| **Season**            | The season year (e.g., "2020").                                                 | String/Integer|
+| **Team**              | Name of the team ("New York Rangers").                                     | String        |
+| **Season**            | The season year ("2020").                                                 | String/Integer|
 | **Games Played**      | Total number of games played by the team in the season.                         | Integer       |
 | **Wins**              | Total number of games won by the team in the season.                            | Integer       |
 | **Losses**            | Total number of games lost by the team in the season.                           | Integer       |
