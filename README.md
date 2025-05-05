@@ -21,7 +21,7 @@ data-wrangling-project/
 ## Table of Contents
 1. [Data](Data/README.md)
 2. [Notebooks](Notebook/README.md)
-3. [Data Dictionary](Data_Dictionary.md)
+3. [Data Dictionary](Data_Dictionary)
 
 ## Datasets
 - [Salary Cap Data](https://www.spotrac.com/nhl/cap)
